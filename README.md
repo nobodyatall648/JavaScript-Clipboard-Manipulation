@@ -23,8 +23,8 @@
 
 ## Image on how it looks like on the website & the value copied in clipboard 
 
-![alt text](poc\1.png)
-![alt text](poc\2.png)
+![alt text](poc/1.png)
+![alt text](poc/2.png)
 
 
 ## Template Used: 
